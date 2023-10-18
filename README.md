@@ -1,7 +1,7 @@
 # Command Design Pattern
 
 The Command Design Pattern is a behavioral design pattern that turns a request into a standalone object containing all information about the request.
-This object can then be passed around, stored, or executed independently. It decouples the sender from the receiver and allows you to parameterize objects with operations. This README provides an overview of the Command Design Pattern, its benefits, and drawbacks.
+This object can then be passed around, stored, or executed independently. It decouples the sender from the receiver and allows you to parameterize objects with operations.
 
 ## Introduction
 
